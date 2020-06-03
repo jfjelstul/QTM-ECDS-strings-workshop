@@ -1,7 +1,6 @@
 ##########################################################################
-# Josh Fjelstul
-# Emory University
-# QTM-ECDS Fall 2018 Workshops, Coding in R Series
+# Josh Fjelstul, Ph.D.
+# QTM-ECDS Workshops, Coding in R Series
 # Intermediate R: Strings
 ##########################################################################
 
