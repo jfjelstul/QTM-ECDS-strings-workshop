@@ -1,4 +1,4 @@
-# QTM-ECDS-strings-workshop
+# QTM-ECDS Strings Workshop
 
 This repository contains the replication materials for the QTM-ECDS Strings Workshop by Josh Fjelstul, Ph.D.
 
